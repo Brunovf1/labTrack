@@ -1,0 +1,9 @@
+# Exemplo de lote de amostras
+# Recebe solicitação de lote de amostra, Cria Lote no sistema, Verifica se todas as maquinas existem, Cria os Samples
+
+Equipamento, Analise
+Transformador_01, 2Fal
+Transformador_01, GAS
+Transformador_01, Fisio-Quimi
+Transformador_02, 2Fal
+Transformador_03, GAS
